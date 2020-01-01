@@ -1,4 +1,4 @@
-# manager-template
+# vue-admin
 
 #### Description
 管理平台项目模板
