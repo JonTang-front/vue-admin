@@ -1,0 +1,8 @@
+@import './variable';
+
+html, body {
+    line-height: 1;
+    background-color: $color-theme;
+    color: $color-text;
+    user-select: none;
+}
