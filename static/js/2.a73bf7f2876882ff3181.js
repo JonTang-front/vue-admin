@@ -1,0 +1,2 @@
+webpackJsonp([2],{Bxe7:function(e,t){},gIUs:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var i={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n    this is alipay\n")])},staticRenderFns:[]};var r=n("C7Lr")({},i,!1,function(e){n("Bxe7")},"data-v-a6c4e508",null);t.default=r.exports}});
+//# sourceMappingURL=2.a73bf7f2876882ff3181.js.map
