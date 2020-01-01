@@ -2,7 +2,7 @@
  * @Author: tangxiaoxin 
  * @Date: 2019-08-05 10:02:34 
  * @Last Modified by: mikey.zhaopeng
- * @Last Modified time: 2019-08-07 13:39:28
+ * @Last Modified time: 2020-01-01 22:47:29
  */
 import Vue from 'vue'
 import Router from 'vue-router'
@@ -10,7 +10,7 @@ import Router from 'vue-router'
 Vue.use(Router)
 
 export default new Router({
-    mode: 'history',
+    mode: 'hash',
     routes: [
         {
             name: 'login',
