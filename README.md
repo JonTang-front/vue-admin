@@ -3,7 +3,7 @@
 #### Description
 管理平台项目模板
 
-demo：https://jontang-web.github.io/vue-admin/
+demo：https://tang-toledo.github.io/vue-admin/
 
 #### Software Architecture
 Software architecture description
